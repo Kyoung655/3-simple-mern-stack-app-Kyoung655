@@ -1,0 +1,8 @@
+
+Hi, I accidentally published the code to github instead of commiting and doing so made 
+made the code its own repository on Github. With this commit, I am committing to the 
+original repository. I've attached a link to the repository that got created when I 
+published showing that I completed the assignment on time. Sorry for the mistake, I am
+pretty new to using Github but I'm trying to learn. 
+
+https://github.com/Kyoung655/3-simple-mern-stack-app-Kyoung655-1
